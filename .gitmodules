@@ -1,5 +1,0 @@
-[submodule "boost"]
-	path = boost
-	url = https://github.com/boostorg/boost.git
-	tag = boost-1.88.0
-
