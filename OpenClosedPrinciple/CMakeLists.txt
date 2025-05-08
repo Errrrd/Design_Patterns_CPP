@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10.0)
-project(SingleResponsPrinciple VERSION 0.1.0 LANGUAGES C CXX)
+project(OpenClosedPrinciple VERSION 0.1.0 LANGUAGES C CXX)
 
 #manual setup instead "add_executable(<project_name> main.cpp)"
 #Set source as variable
